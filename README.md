@@ -2,7 +2,7 @@
 Web application containing dashboards built from World Bank data. Application screenshot:
 
 
-![App screenshot](./images/capture.jpg)
+![App screenshot](/images/capture.JPG)
 
 ## Installation
 
